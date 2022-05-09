@@ -1,2 +1,2 @@
-# Reposit-rio-Projeto-DIO
-Repositório Projeto DIO
+# Repositorio-Projeto-DIO
+Repositório Desafiio de Projeto DIO
